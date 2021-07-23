@@ -1,7 +1,7 @@
 import reactDom from 'react-dom';
 import './App.css';
-import Header from './mycompo/Header';
-import {Footer} from './mycompo/Footer';
+import Header from './Header';
+import {Footer} from './Footer';
 
 
 
